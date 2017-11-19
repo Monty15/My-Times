@@ -46,7 +46,7 @@ div {
 }
 
 .tuna {
-  background: url("./resources/img-story-main.png");
+  background-image: url("./resources/img-story-main.png");
   opacity: 100%;
   font-family: Georgia;
   font-weight: bold;
