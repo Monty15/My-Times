@@ -30,5 +30,8 @@
   display: flex;
   flex-grow: 1;
   align-items: center;
-
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
 }
