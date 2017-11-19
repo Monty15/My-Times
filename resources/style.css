@@ -44,3 +44,18 @@ div {
 .column.small {
   width: 240px;
 }
+
+.tuna {
+  background: url("/Users/katie/Projects/My Times/resources/img-story-main.png");
+  opacity: 100%;
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+}
+
+.column {
+  font-family: Georgia;
+  font-size: 17px;
+  color: black;
+}
