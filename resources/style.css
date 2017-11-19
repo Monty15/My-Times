@@ -9,8 +9,7 @@
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
-
-  justify-content: flex-end;
+  padding-right: 40px;
 }
 
 
@@ -29,5 +28,7 @@ h1 #title {
 
 .box {
   display: flex;
+  flex-grow: 1
+  align-items: center;
 
 }
