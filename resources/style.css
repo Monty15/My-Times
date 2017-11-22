@@ -54,6 +54,15 @@ div {
   color: white;
 }
 
+.sunset {
+  background-image: image("../resources/img-story-2.png");
+  opacity: 100%;
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+}
+
 .column {
   font-family: Georgia;
   font-size: 17px;
