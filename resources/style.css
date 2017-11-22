@@ -36,6 +36,7 @@ div {
 .column.large {
   width: 630px;
   align-content: flex-start;
+  flex-direction: row;
 }
 
 .column.medium {
