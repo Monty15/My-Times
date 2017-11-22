@@ -62,7 +62,7 @@
 }
 
 .camera {
-  background-image: url("../img-story-3.png");
+  background-image: url("../resources/img-story-3.png");
   font-family: Georgia;
   font-weight: bold;
   font-size: 30px;
@@ -70,7 +70,7 @@
 }
 
 .cats {
-  background-image: url("../img-story-1.png");
+  background-image: url("../resources/img-story-1.png");
   opacity: 100%;
   font-family: Georgia;
   font-weight: bold;
