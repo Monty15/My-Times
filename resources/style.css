@@ -55,7 +55,7 @@ div {
 }
 
 .sunset {
-  background-image: url("./resources/img-story-2.png");
+  background-image: url("./img-story-2.png");
   opacity: 100%;
   font-family: Georgia;
   font-weight: bold;
@@ -64,7 +64,7 @@ div {
 }
 
 .camera {
-  background-image: url("./resources/img-story-3.png");
+  background-image: url("./img-story-3.png");
   font-family: Georgia;
   font-weight: bold;
   font-size: 30px;
@@ -72,7 +72,7 @@ div {
 }
 
 .cats {
-  background-image: url("./resources/img-story-1.png");
+  background-image: url("./img-story-1.png");
   opacity: 100%;
   font-family: Georgia;
   font-weight: bold;
