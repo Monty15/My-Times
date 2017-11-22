@@ -64,7 +64,7 @@ div {
 }
 
 .camera {
-  background-image: url("../resources/img-story-3.png");
+  background-image: url(".../resources/img-story-3.png");
   opacity: 100%;
   font-family: Georgia;
   font-weight: bold;
@@ -73,7 +73,7 @@ div {
 }
 
 .cats {
-  background-image: url("../resources/img-story-1.png");
+  background-image: url(".../resources/img-story-1.png");
   opacity: 100%;
   font-family: Georgia;
   font-weight: bold;
