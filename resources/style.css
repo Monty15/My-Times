@@ -1,16 +1,23 @@
 
 .container {
   display: flex;
-  height: 50px;
+  height: 100px;
   width: 100%;
-
+  z-index: 20;
+  border-bottom: 2px solid black;
+  position: fixed;
+  background-color: white;
+  margin-bottom: 50px;
+  padding-top: 20px;
 }
+
 
 #menu {
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
   padding-right: 40px;
+  align-items: flex-end;
 }
 
 
@@ -18,7 +25,11 @@
   display: flex;
   justify-content: space-between;
 }
-
+.main {
+  position: relative;
+  z-index: 10;
+  padding-top: 150px;
+}
 .box {
   display: flex;
   flex-grow: 1;
@@ -32,15 +43,21 @@
 
 .column.large {
   width: 630px;
+  padding-right: 20px;
+  margin-right: 20px;
 
 }
 
 .column.medium {
   width: 300px;
+  padding-right: 20px;
+  margin-right: 20px;
 }
 
 .column.small {
   width: 240px;
+  padding-right: 20px;
+  margin-right: 20px;
 }
 
 .tuna {
@@ -82,6 +99,9 @@
   font-family: Georgia;
   font-size: 17px;
   color: black;
+  margin-right: 50px;
+  flex-direction: row;
+
 }
 
 .large {
