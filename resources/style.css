@@ -55,7 +55,7 @@ div {
 }
 
 .sunset {
-  background-image: url("../resources/img-story-2.png");
+  background-image: url(".../resources/img-story-2.png");
   opacity: 100%;
   font-family: Georgia;
   font-weight: bold;
