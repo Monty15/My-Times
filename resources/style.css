@@ -35,8 +35,7 @@ div {
 
 .column.large {
   width: 630px;
-  align-content: flex-start;
-  flex-direction: row;
+
 }
 
 .column.medium {
@@ -86,4 +85,9 @@ div {
   font-family: Georgia;
   font-size: 17px;
   color: black;
+}
+
+.large {
+  align-content: flex-start;
+  flex-direction: row;
 }
